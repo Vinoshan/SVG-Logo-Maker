@@ -32,8 +32,10 @@
     "url": "https://github.com/Vinoshan/SVG-Logo-Maker/issues"
   },
   "homepage": "https://github.com/Vinoshan/SVG-Logo-Maker#readme",
-  "dependencies": {
-    "inquirer": "^9.2.10",
+  "devDependencies": {
     "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3"
   }
 }
