@@ -1,0 +1,39 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Creates a Simple Logo",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinoshan/SVG-Logo-Maker.git"
+  },
+  "keywords": [
+    "logo",
+    "svg",
+    "generator",
+    "cli",
+    "command-line",
+    "graphics",
+    "design",
+    "web",
+    "nodejs",
+    "inquirer",
+    "jest"
+  ],
+  "author": "Vinoshan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vinoshan/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/Vinoshan/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "jest": "^29.6.2"
+  }
+}
